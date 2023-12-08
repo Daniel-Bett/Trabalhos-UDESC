@@ -1,3 +1,6 @@
+Trabalho realizado para a disciplina de Estrutura de Dados na Universidade do Estado de Santa Catarina.
+
+
 O objetivo deste trabalho é implementar o algoritmo BFS (Breadth-first Search)
 ou Busca em Largura em um grafo. Ele se inicia em algum vértice arbitrário do grafo e
 explora todos os vértices vizinhos (no mesmo nível), antes de se mover para os vértices
