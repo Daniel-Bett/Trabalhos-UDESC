@@ -1,3 +1,5 @@
+Trabalho realizado para a disciplina de Estrutura de Dados na Universidade do Estado de Santa Catarina.
+
 O objetivo do trabalho é desenvolver um programa que gerencie um cadastro
 simples de uma agenda de eventos. Quando inicializado, o programa deve carregar os
 dados de um arquivo de texto em uma lista encadeada de estruturas do tipo evento,
