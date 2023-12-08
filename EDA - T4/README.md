@@ -1,0 +1,1 @@
+Este trabalho foi desenvolvido para disciplina de Estrutura de Dados na Universidade do Estado de Santa Catarina. Ele utiliza a estrutura de árvore para a busca de caminhos minimos em gráfo, ainda de forma simples e sem peso entre os caminhos, porém em conceito de grafos atende bem. 
